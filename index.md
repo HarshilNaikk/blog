@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Harshil Naik
 
-![Image of fast.ai logo](images/logo.png)
+Hey! This is my attempt at organizing my thoughts as I enter my Final year of my Undergraduate studies at IIT Bombay. I have been confused for sometime with regards to the direction of my career and my choices that lie ahead. I hope to find some clarity and recluse within these blog posts. 
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+# Blog Posts
+<!--And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. -->
