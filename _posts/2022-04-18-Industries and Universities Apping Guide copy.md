@@ -2,7 +2,7 @@
 title: Internship Apping
 ---
 
-# **A Guide to Apping for Internships** #
+# **A Guide to Apping for Internships** 
 
 Looking at the vastly uncharted domain of applying to universities and talking to professors or to Industry professionals for Internships does get nerve wracking. As someone who has been through this, I agree it is not an easy task. But with the right approach, it is definitely possible. 
 
