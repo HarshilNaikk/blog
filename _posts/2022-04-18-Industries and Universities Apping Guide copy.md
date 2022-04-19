@@ -37,8 +37,9 @@ Having a database and applying to opportunities can be carried out simultaneousl
 Put yourself in the shoes of a person at a company trying to hire somebody for a role, or a professor looking or relevent interns. Many people apply through the usual channels - LinkedIn or Email. While this does you might get noticed and selected, there's definitely a better way. 
 You have to try to get the recruiter/professor to notice you or your profile by choosing an unorthodox way. And the best way to do so is using Information sharing platforms (Other than the most common ones used for recruiting like LinkedIn). They can also be used to directly search for potential opportunies in the databasing step itself!
 
-- Go on your usual information sharing platform and look for interesting work. For example, if you are into Web Development, you can go on Github and look for interesting web designs/implementation, and directly talk to those people. If you're into design, you can check our various portfolios on Instagram or Behance, and talk to those people directly. People LOVE when others show genuine interest in their work. Hardly anyone would turn you away. 
-Some information sharing platforms:
+- Go on your usual information sharing platform and look for interesting work. For example, if you are into Web Development, you can go on Github and look for interesting web designs/implementation, and directly talk to those people. If you're into design, you can check our various portfolios on Instagram or Behance, and talk to those people directly. People LOVE when others show genuine interest in their work. Hardly anyone would turn you away.
+
+- Some information sharing platforms:
     - Any Software domain : Github, Stack Overflow, Slack Channels of Open Source Softwares (This is a GOLDMINE), Github Issues discussions, Gitter Channels
     - Design : Instagram, Behance, Youtube, DeviantArt, Pinterest, Dribbble, ArtStation
 
