@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+![](/images/1.jpeg) 
+
+I am a third year undergraduate at the Indian Institute of Technology Bombay, pursuing a B.Tech in Aerospace engineering. I love being around Robots, especially ones that fly. 
 
