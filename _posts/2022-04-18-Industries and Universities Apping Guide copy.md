@@ -11,7 +11,7 @@ Looking at the vastly uncharted domain of applying to universities and talking t
 # LinkedIn #
 The first step is to build an Online presence. The most common and useful app is LinkedIn. Create a profile, add a professional picture, have a crisp Bio along with the relevent experiences and skills added to the appropriate sections. 
 
-Once you have a decent profile set up (All the above things), start building up connections. The way I did it was to send connection requests to any and all student from your university, and to send a thoughtful connection request with a "Personalized Invite" to all the professors/professionals of interest to you. During this time, engage with people whenever you can, on posts you find interesting (maybe commenting on them, or messaging people directly to just talk about their work/research). It will help in complimenting your online presence. 
+Once you have a decent profile set up (All the above things), start building up connections. The way I did it was to send connection requests to any and all students from my university, and to send a thoughtful connection request with a "Personalized Invite" to all the professors/professionals of interest to me. During this time, engage with people whenever you can, on posts you find interesting (maybe commenting on them, or messaging people directly to just talk about their work/research). It will help in complimenting your online presence. 
 
 Once you have around 500 connections, you are good to go.
 
@@ -27,23 +27,24 @@ Useful ways to look for companies :
 - Alumni Database of your domain
 - Engaging with and inquiring people online who are working in your domain with genuine curiosity about their work and their experiences. 
 
-Ideally, if you are looking for a company internship, start around August, and apply/send mail to a minimum of 3-5 recruiters/companies daily. Be bold! I've even secured an interview when I directly texted the CEO of a company on LinkedIn. Also, remember to keep track of who you mail/apply to.
+Ideally, if you are looking for a company internship, start around August, and apply/send mail to a minimum of 3-5 recruiters/companies daily. Be bold! I've even secured an interview when I directly texted the CEO of a company on LinkedIn. 
+Also, remember to keep track of who you mail/apply to.
 
 ## University Internships
 Useful ways to look for professors :
-- Having a decent network with your university alumni and students, which send a lot of professors' posts on your feed, some of which are requirements for students. Even if they ask for PhD students in their post, you can send them a message asking if they would be willing to take undergraduate interns. (This is how I landed a Summer internship! ;) ) 
+- Having a decent network with your university alumni and students, which sends a lot of professors' posts on your feed, some of which will be requirements for students. Even if they ask for PhD students in their post, you can send them a message asking if they would be willing to take undergraduate interns. (This is how I landed a Summer internship! ;) ) 
 - Look up the top 50 international universities with research going on in your domain. Go through their labs and professors' database. You will definitely find interesting leads there. 
 - Go to Google Scholar and search for well cited relevent research papers that you find interesting. Look up the authors and their work. 
 - Ask your seniors/alumni for any of their contacts.
 
-Ideally, if you are looking for university research internships, you should begin around July-August, and look for a minimum of 3-5 professors daily, and send them a mail. Add them to your database and await a reply. Make this a daily ritual, to look for professors, mailing them (It usually takes an hour or so). Alternatively, you can select one day and do a whole week worth of mailing on a single day. Do remember to schedule mails in either case, so that you can increase the chances of the professor actually reading your mail.
+Ideally, if you are looking for university research internships, you should begin around July-August, and look for a minimum of 3-5 professors daily, and send them a mail. Add them to your database and await a reply. Make this a daily ritual, to look for professors, mailing them (It usually takes an hour or so). Alternatively, you can select one day and do a whole week worth of mailing on a single day. Do remember to schedule mails in either case, so that you can increase the chances of the professor actually reading your mail (more on this later).
 
 # Unorthodox methods (that work awesomely!) #
 
-Put yourself in the shoes of a person at a company trying to hire somebody for a role, or a professor looking or relevent interns. Many people apply through the usual channels - LinkedIn or Email. While this does you might get noticed and selected, there's definitely a better way. 
+Put yourself in the shoes of a person at a company trying to hire somebody for a role, or a professor looking or relevent interns. Many people apply through the usual channels - LinkedIn or Email. While this might get noticed and selected, there's definitely a better way that can you use to increase your chances.
 You have to try to get the recruiter/professor to notice you or your profile by choosing an unorthodox way. And the best way to do so is using Information sharing platforms (Other than the most common ones used for recruiting like LinkedIn). They can also be used to directly search for potential opportunies in the databasing step itself!
 
-- Go on your usual information sharing platform and look for interesting work. For example, if you are into Web Development, you can go on Github and look for interesting web designs/implementation, and directly talk to those people. If you're into design, you can check our various portfolios on Instagram or Behance, and talk to those people directly. People LOVE when others show genuine interest in their work. Hardly anyone would turn you away.
+- Go on your usual information sharing platform and look for interesting work. For example, if you are into Web Development, you can go on Github and look for interesting web designs/implementations, and directly talk to those people. If you're into design, you can check our various portfolios on Instagram or Behance, and talk to those people directly. People LOVE when others show genuine interest in their work. Hardly anyone would turn you away.
 
 - Some information sharing platforms:
     - Any Software domain : Github, Stack Overflow, Slack Channels of Open Source Softwares (This is a GOLDMINE), Github Issues discussions, Gitter Channels
@@ -55,7 +56,9 @@ This way, you arent competing with hundreds of applicants for their attention, b
 
 If it is a company, have patience, and let them reply. Usually, they will always revert back to you, and not leave you hanging. Don't do the same to them. If you have a better opportunity, and want to pass this one up, tell them upfront and avoid wasting your and their time. Deferring to reply for a few days to think it over is fine, but ghosting them for waiting to hear back from another company isn't.
 
-If it is a professor, keep this in mind - think of the time you are sending the email. Sending it on a weekday during the day will have a higher chance of him/her reading it. Sending it on the weekend might mean they ignore it then, and have to look at it along with the huge chunk of mails that have piled up over the weekend, reducing your chances. Always better to be safe rather than sorry. Schedule your emails accordingly, and keep an email tracker ([This one](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh?hl=en) for gmail works nicely. Another [Alternative](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=en))
+
+## Scheduling mails
+If it is a professor, keep this in mind - think of the time you are sending the email. Sending it on a weekday during the day will have a higher chance of him/her reading it (Preferably Wednesday and Thursday). Sending it on the weekend might mean they ignore it then, and have to look at it along with the huge chunk of mails that have piled up over the weekend, reducing your chances. Always better to be safe rather than sorry. Schedule your emails accordingly, and keep an email tracker ([This one](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh?hl=en) for gmail works nicely. Another [Alternative](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=en))
 
 Give them time to reply. Don't send a reminder mail unless it has been 8-10 days. IIT students are notorious for persistently bugging them. Don't give them a reason to not select you. 
 
