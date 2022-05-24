@@ -15,6 +15,8 @@ Once you have a decent profile set up (All the above things), start building up 
 
 Once you have around 500 connections, you are good to go.
 
+Ideal Time to do this : Yesterday. DO THIS ASAP. 
+
 # Databasing #
 You should start creating a Database of companies and professors you find relevant to your field. There's no need to give a lot of time daily to this. Around 30 mins to google and look up companies/professors doing research/work interesting to you would suffice. This database will be very handy when you start sending emails, and for keeping track of whom you applied to. 
 
