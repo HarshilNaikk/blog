@@ -18,7 +18,7 @@ Once you have around 500 connections, you are good to go.
 # Databasing #
 You should start creating a Database of companies and professors you find relevant to your field. There's no need to give a lot of time daily to this. Around 30 mins to google and look up companies/professors doing research/work interesting to you would suffice. This database will be very handy when you start sending emails, and for keeping track of whom you applied to. 
 
-## Company Internships
+### Company Internships
 Useful ways to look for companies :
 - Google Jobs
 - Glassdoor
@@ -30,7 +30,7 @@ Useful ways to look for companies :
 Ideally, if you are looking for a company internship, start around August, and apply/send mail to a minimum of 3-5 recruiters/companies daily. Be bold! I've even secured an interview when I directly texted the CEO of a company on LinkedIn. 
 Also, remember to keep track of who you mail/apply to.
 
-## University Internships
+### University Internships
 Useful ways to look for professors :
 - Having a decent network with your university alumni and students, which sends a lot of professors' posts on your feed, some of which will be requirements for students. Even if they ask for PhD students in their post, you can send them a message asking if they would be willing to take undergraduate interns. (This is how I landed a Summer internship! ;) ) 
 - Look up the top 50 international universities with research going on in your domain. Go through their labs and professors' database. You will definitely find interesting leads there. 
@@ -57,7 +57,7 @@ This way, you arent competing with hundreds of applicants for their attention, b
 If it is a company, have patience, and let them reply. Usually, they will always revert back to you, and not leave you hanging. Don't do the same to them. If you have a better opportunity, and want to pass this one up, tell them upfront and avoid wasting your and their time. Deferring to reply for a few days to think it over is fine, but ghosting them for waiting to hear back from another company isn't.
 
 
-## Scheduling mails
+### Scheduling mails
 If it is a professor, keep this in mind - think of the time you are sending the email. Sending it on a weekday during the day will have a higher chance of him/her reading it (Preferably Wednesday and Thursday). Sending it on the weekend might mean they ignore it then, and have to look at it along with the huge chunk of mails that have piled up over the weekend, reducing your chances. Always better to be safe rather than sorry. Schedule your emails accordingly, and keep an email tracker ([This one](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh?hl=en) for gmail works nicely. Another [Alternative](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=en))
 
 Give them time to reply. Don't send a reminder mail unless it has been 8-10 days. IIT students are notorious for persistently bugging them. Don't give them a reason to not select you. 
