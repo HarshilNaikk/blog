@@ -18,6 +18,7 @@ Once you have around 500 connections, you are good to go.
 # Databasing #
 You should start creating a Database of companies and professors you find relevant to your field. There's no need to give a lot of time daily to this. Around 30 mins to google and look up companies/professors doing research/work interesting to you would suffice. This database will be very handy when you start sending emails, and for keeping track of whom you applied to. 
 
+## Company Internships
 Useful ways to look for companies :
 - Google Jobs
 - Glassdoor
@@ -26,13 +27,16 @@ Useful ways to look for companies :
 - Alumni Database of your domain
 - Engaging with and inquiring people online who are working in your domain with genuine curiosity about their work and their experiences. 
 
+Ideally, if you are looking for a company internship, start around August, and apply/send mail to a minimum of 3-5 recruiters/companies daily. Be bold! I've even secured an interview when I directly texted the CEO of a company on LinkedIn. Also, remember to keep track of who you mail/apply to.
+
+## University Internships
 Useful ways to look for professors :
 - Having a decent network with your university alumni and students, which send a lot of professors' posts on your feed, some of which are requirements for students. Even if they ask for PhD students in their post, you can send them a message asking if they would be willing to take undergraduate interns. (This is how I landed a Summer internship! ;) ) 
 - Look up the top 50 international universities with research going on in your domain. Go through their labs and professors' database. You will definitely find interesting leads there. 
 - Go to Google Scholar and search for well cited relevent research papers that you find interesting. Look up the authors and their work. 
 - Ask your seniors/alumni for any of their contacts.
 
-Having a database and applying to opportunities can be carried out simultaneously. Look for a few leads daily, and apply!
+Ideally, if you are looking for university research internships, you should begin around July-August, and look for a minimum of 3-5 professors daily, and send them a mail. Add them to your database and await a reply. Make this a daily ritual, to look for professors, mailing them (It usually takes an hour or so). Alternatively, you can select one day and do a whole week worth of mailing on a single day. Do remember to schedule mails in either case, so that you can increase the chances of the professor actually reading your mail.
 
 # Unorthodox methods (that work awesomely!) #
 
@@ -65,6 +69,10 @@ One thing to take away from this is - PATIENCE. Be Patient. Please. You WILL fac
 # Final Advice #
 
 Internship Season is daunting when you see that students all around you are being shortlisted and selected, while you are merely lengthening your database. But patience pays. Trust me, it does. Instead of being stuck with an intern that only half interests you, wait and spend time finding one you throughly love working at. 
+
+Also, don't ever be afraid to apply for a role/mailing a person because you feel "Incapable" or "Inadequate",or are just downright scared to do so. I literally secured my internship because the professor I'm currently interning for, put up a post on LinkedIn asking for PhD candidates, to which I replied, "I'm an undergraduate, and I'm really interested in your work. Any chance of a summer internship?". And then things progressed from there. 
+As they say, "Poochne me kya jaata hai" (What's the harm in asking?)
+
 Keep going!
 
 
